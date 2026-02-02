@@ -2,7 +2,7 @@
 
 One-click PostgreSQL with VectorChord for scalable vector search + BM25 full-text search.
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/H97WTl?referralCode=IcOuaJ&utm_medium=integration&utm_source=template&utm_campaign=generic)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/deploy/vchord-suite?referralCode=IcOuaJ&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 ## What's Included
 
@@ -22,7 +22,7 @@ One-click PostgreSQL with VectorChord for scalable vector search + BM25 full-tex
 
 ## Quick Start
 
-1. **Deploy** via the button above or [this link](https://railway.com/deploy/H97WTl?referralCode=IcOuaJ&utm_medium=integration&utm_source=template&utm_campaign=generic)
+1. **Deploy** via the button above or [this link](https://railway.com/deploy/vchord-suite?referralCode=IcOuaJ&utm_medium=integration&utm_source=template&utm_campaign=generic)
 
 2. **Create a vector index:**
    ```sql
